@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rushivv303
+- 👋 Hi, I’m Rushikesh Vaidya
 - 👀 I’m interested in Web Developement.
 - 🌱 I’m currently doing ReactJS projects.
 - 📫 How to reach me :- rushikeshvaidya303@gmail.com
